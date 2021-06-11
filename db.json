@@ -1,17 +1,14 @@
 {
   "books": [
     {
-      "title": "If You Find a Rock",
-      "authors": "Peggy Christian",
-      "publisher": "Houghton Mifflin Harcourt"
+      "title": "Hercules",
+      "authors": "Jennifer Posedel, Stephen Lawton",
+      "publisher": "Arcadia Publishing"
     },
     {
-      "title": "Tuesdays with Morrie",
-      "authors": "Mitch Albom",
-      "publisher": "Crown"
-    },
-    {
-      "title": "Hi-fi News & Record Review"
+      "title": "Hercules",
+      "authors": "Shannon Eric Denton",
+      "publisher": "ABDO"
     }
   ]
 }
