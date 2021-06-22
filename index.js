@@ -5,7 +5,7 @@ const { query, list } = require('./lib/commands');
 
 app
   .version('0.0.1')
-  .description('Search Google Books and create a reading list.')
+  .description('Search Google Books and create a reading list.');
 
 app
   .command('list')
