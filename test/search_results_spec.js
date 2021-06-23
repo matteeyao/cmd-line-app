@@ -34,4 +34,4 @@ describe('Search Results', () => {
       expect(firstResult).to.have.property('publisher');
     })
   });
-})
+});
