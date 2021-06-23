@@ -8,14 +8,6 @@ app
   .description('Search Google Books and create a reading list.');
 
 app
-  .command('list')
-  .alias('ls')
-  .description('view the locally-stored reading list...')
-  .action(function () {
-    list();
-  });
-
-app
   .command('query')
   .alias('q')
   .description('search Google Books library for a title...')
