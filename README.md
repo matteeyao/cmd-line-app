@@ -14,6 +14,7 @@
 
 4. Execute `node index.js q` to send a search query to Google Books API or `node index.js ls` to view reading list
 
+5. Run `npx mocha` to run the specs. You can view the test cases in `/test`.
 
 ## App dependencies
 
